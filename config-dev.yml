@@ -1,2 +1,4 @@
 config:
-      info: "master branch,springcloud-config/config-dev.yml version=3"
+   info:  "This is My Config-dev.yml  gwl  version=5"
+
+
